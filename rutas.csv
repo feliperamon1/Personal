@@ -1,0 +1,8 @@
+Ciudad_Origen,Ciudad_Destino,Distancia_km,Tiempo_min,Costo_COP,Transbordos,Disponible
+Estación A,Estación B,5,10,2000,0,True
+Estación A,Estación C,10,25,3000,1,True
+Estación B,Estación C,7,15,1500,0,True
+Estación B,Estación D,12,30,2500,1,True
+Estación C,Estación D,8,20,2000,1,False
+Estación C,Estación E,15,40,3500,2,True
+Estación D,Estación E,20,50,4000,2,True
